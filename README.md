@@ -1,2 +1,1 @@
-# Declaracion-geimer
-ajam acepta boluda
+# declaracion
